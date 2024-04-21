@@ -4,7 +4,7 @@ My name is Steve. I graduated from [Binus University](https://international.binu
 
 - 🌍  I'm based in Indonesia!
 - 🔭  I’m currently working on **improving my programming skills and breaking into the tech world**
-- 💻  I’m currently learning **React.JS and Express.js**
+- 💻  I’m currently learning **React.JS and Go (golang)**
 - 💡   I’m looking to collaborate on **both open source and other interesting projects**
 - ✉️  Contact me at [steve.v.jo@gmail.com](mailto:steve.v.jo@gmail.com)
 
